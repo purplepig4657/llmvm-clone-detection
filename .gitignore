@@ -1,0 +1,21 @@
+# build
+*.so
+
+# vim
+.ccls-cache
+
+# python
+__pycache__
+
+# virtualenv
+venv
+
+# MacOS
+DS_Store
+
+# IntelliJ
+.idea
+
+# csv
+*.csv
+
